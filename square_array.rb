@@ -4,5 +4,5 @@ def square_array(array)
     i = array[count] ** 2
     count +=1
   end
-  return i
+  puts i
 end
